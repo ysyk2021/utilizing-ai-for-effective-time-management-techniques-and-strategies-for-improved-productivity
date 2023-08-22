@@ -1,5 +1,4 @@
-Enhancing Focus and Concentration with AI-Enabled Distraction Management and Mental Health Monitoring
-=============================================================================================================================================================
+
 
 Effective time management requires focus and concentration. In this chapter, we will explore the AI techniques for efficient time management, specifically in distraction management and mental health monitoring.
 
