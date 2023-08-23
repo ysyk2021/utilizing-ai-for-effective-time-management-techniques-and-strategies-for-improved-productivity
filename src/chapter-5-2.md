@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore how AI-enabled decision support and prediction can reduce decision fatigue in time management practices. We'll look at the benefits of using AI to support decision-making, as well as the different ways in which decision support and prediction can be applied.
 
 Supporting Decision-Making with AI

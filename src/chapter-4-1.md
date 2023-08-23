@@ -1,5 +1,4 @@
 
-
 Effective time management requires focus and concentration. In this chapter, we will explore the AI techniques for efficient time management, specifically in distraction management and mental health monitoring.
 
 AI Applications for Distraction Management
