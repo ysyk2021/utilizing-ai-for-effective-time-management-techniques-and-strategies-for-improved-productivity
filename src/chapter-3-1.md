@@ -1,5 +1,4 @@
-Chapter 10: Identifying Your Goals and Priorities for Optimal Time Management Performance
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective time management starts with a clear understanding of your goals and priorities. In this chapter, we will delve into the process of defining your objectives and establishing priorities to maximize your time management performance through AI-driven techniques and strategies.
 
